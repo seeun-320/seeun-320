@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&fontColor=ffffff&height=200&section=header&text=SEEUN%20LEE&fontSize=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&fontColor=ffffff&height=250&section=header&text=SEEUN%20LEE&fontSize=50&animation=fadeIn)
 <h3 align="center">👩🏻‍💻 Tech Stack</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
