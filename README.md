@@ -10,7 +10,7 @@ Hi! I'm Seeun 🍊
   <img src="https://img.shields.io/badge/oracle-E6B91E?style=flat-square&logo=oracle&logoColor=white"/></a>&nbsp  
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seeun-320&langs_count=4&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seeun-320&langs_count=8&layout=compact)
 
 ### 📚 Solved.ac
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=orange0320)](https://solved.ac/orange0320)
